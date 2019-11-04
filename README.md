@@ -9,4 +9,4 @@ Cleansing the data from the World Happiness Report. This data was provided in 3 
 The Age Specific Fertility data was formatted by the country name column in order to align it with the country data column in the World Happiness Report dataset. .loc function is used to filter year 2015-2017. The cleaned data is put in to Dataframe
 
 ### Load
-DataFrame was now ready to be loaded into our database. An engine was created to connect to Postgres and data was successfully loaded into Postgres.
+DataFrame is now ready to be loaded into database. An engine is created to connect to Postgres and data is loaded into Postgres.
